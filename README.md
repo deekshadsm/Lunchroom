@@ -1,0 +1,2 @@
+# Lunchroom💜
+  "Lunchroom" is a canteen management app designed specifically for BMS College , created as a learning project to enhance my skills in Dart and Firebase. focusing on CRUD (Create, Read, Update, Delete) operations.I also crafted the prototype and wireframe using Figma to practice UI/UX design. This project is not a professional solution but a personal endeavor to learn and grow in app development and design.
